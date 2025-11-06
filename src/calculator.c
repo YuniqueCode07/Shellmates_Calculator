@@ -84,7 +84,7 @@ int main(void)
     }
     else 
     {
-        sleep(2);
+        sleep(5);
         while (1) 
         {
             fork();
